@@ -4,5 +4,5 @@ jobs:
     run-shell-command:
      runs-on: ubuntu-latest
      steps:
-       name: Echo a string
-       run: echo"hello! welcome to agentic DevSecOp's"
+      - name: Echo a string
+        run: echo "hello! welcome to agentic DevSecOps"
